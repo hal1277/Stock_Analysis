@@ -18,7 +18,7 @@ So, the original script has been refactored specifically with increasing speed o
 
 As a result the refactored code prdouces exactly the same data results but in 85% less processing time as can be seen in these images 
 
-Markdown![https://github.com/hal1277/Stock_Analysis/blob/ee14cc578676c7bb16d3eea886afd2ec7e77f5c3/VBA_Challenge_2017_Original_Code.png]
+![2017 Original Script Speed](https://github.com/hal1277/Stock_Analysis/blob/ee14cc578676c7bb16d3eea886afd2ec7e77f5c3/VBA_Challenge_2017_Original_Code.png)
 https://github.com/hal1277/Stock_Analysis/blob/ee14cc578676c7bb16d3eea886afd2ec7e77f5c3/VBA_Challenge_2017.png
 https://github.com/hal1277/Stock_Analysis/blob/ee14cc578676c7bb16d3eea886afd2ec7e77f5c3/VBA_Challenge_2018_Original_Code.png
 https://github.com/hal1277/Stock_Analysis/blob/ee14cc578676c7bb16d3eea886afd2ec7e77f5c3/VBA_Challenge_2018.png
